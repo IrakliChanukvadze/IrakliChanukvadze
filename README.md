@@ -6,7 +6,7 @@
 
 - mail: iraklichanuyvadze@gmail.com
 
-- [linkedin:](https://www.linkedin.com/in/iraklichano/)
+- [linkedin](https://www.linkedin.com/in/iraklichano/)
 
 <!--
 **IrakliChanukvadze/IrakliChanukvadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
