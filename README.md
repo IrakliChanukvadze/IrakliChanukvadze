@@ -1,6 +1,6 @@
 ### Hi there, I am Irakli 👋
 
-- 🌱 I’m currently learning full-stack development
+- 🌱 Front-end developer
 
 - 📫 How to reach me: ...
 
