@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: ...
 
-- mail: iraklitchanukvadze@gmail.com
+- mail: iraklitchanukvadze@gmail.com 
 
 - [linkedin](https://www.linkedin.com/in/iraklichano/)
 
