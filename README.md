@@ -1,6 +1,6 @@
 ### Hi there, I am Irakli 👋
 
-- Hey, I am a passionate and driven software developer with a Bachelor's degree in Computer Science and a background in international rugby refereeing. Skilled in problem-solving, teamwork, and attention to detail, I bring a high level of focus and dedication to my work. Proficient in HTML, CSS, JavaScript, React, and TypeScript, I enjoy creating efficient and innovative solutions to complex challenges. With a strong desire for continuous learning and growth, I am expanding my skills to include backend development with Node.js, Express, MongoDB, and SQL. Committed to delivering exceptional results, I thrive in dynamic and collaborative environments.
+- Hey, I am a passionate and driven software developer with a Bachelor's degree in Computer Science, 2+ years of work experience as a front-end developer and a background in international rugby refereeing. Skilled in problem-solving, teamwork, and attention to detail, I bring a high level of focus and dedication to my work. Proficient in HTML, CSS, JavaScript, React, and TypeScript, I enjoy creating efficient and innovative solutions to complex challenges. With a strong desire for continuous learning and growth, I am expanding my skills to include backend development with Node.js, Express, MongoDB, and SQL. Committed to delivering exceptional results, I thrive in dynamic and collaborative environments.
 
 - 📫 How to reach me: ...
 
